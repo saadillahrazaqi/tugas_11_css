@@ -1,0 +1,34 @@
+header, footer {
+  background-color: black;
+  height: 30px;
+}
+
+li, a {
+  display: block;
+  float: left;
+}
+
+ul {
+  padding-left: 15px;
+}
+
+
+a {
+  padding: 5px 20px 5px 5px;
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  column-count: 4;
+  column-rule: 1px solid black;
+  column-fill: balance;
+  text-align: justify;
+  font-size: 12px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
